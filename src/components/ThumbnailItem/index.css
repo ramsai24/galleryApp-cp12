@@ -1,1 +1,18 @@
 /* Write your code here. */
+.zero-opacity {
+  opacity: 0;
+}
+.with-opacity {
+  opacity: 0.5;
+}
+
+.each-item {
+  list-style-type: none;
+  padding: 10px;
+}
+
+.img-btn {
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
